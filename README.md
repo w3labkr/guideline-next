@@ -1,1 +1,1 @@
-# guideline-react-nextjs
+# guideline-react-next
